@@ -18,12 +18,14 @@ body {
 }
 
 a {
-  color: #4154f1;
+  /* color: #4154f1; */
+  color: #029bd5;
   text-decoration: none;
 }
 
 a:hover {
-  color: #717ff5;
+  /* color: #717ff5; */
+  color: #029bd5;
   text-decoration: none;
 }
 
