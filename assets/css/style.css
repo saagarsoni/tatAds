@@ -349,7 +349,7 @@ section {
   cursor: pointer;
   display: none;
   line-height: 0;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 
 .mobile-nav-toggle.bi-x {
@@ -374,7 +374,7 @@ section {
   left: 0;
   bottom: 0;
   background: rgba(1, 22, 61, 0.9);
-  transition: 0.3s;
+  transition: 0.1s;
 }
 
 .navbar-mobile .mobile-nav-toggle {
@@ -393,9 +393,8 @@ section {
   padding: 10px 0;
   border-radius: 10px;
   background-color: #fff;
-  color: #fff;
   overflow-y: auto;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .navbar-mobile a,
