@@ -56,7 +56,8 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #4154f1;
+  /* color: #4154f1; */
+  color: #029bd5;
   text-transform: uppercase;
 }
 
@@ -66,7 +67,8 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #012970;
+  /* color: #012970; */
+  color: #029bd5;
 }
 
 @media (max-width: 768px) {
@@ -137,7 +139,8 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  /* background: #4154f1; */
+  background: #029bd5;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -151,7 +154,8 @@ section {
 }
 
 .back-to-top:hover {
-  background: #6776f4;
+  /* background: #6776f4; */
+  background: #029bd5;
   color: #fff;
 }
 
@@ -491,7 +495,7 @@ section {
 }
 
 .hero .btn-get-started:hover i {
-  transform: translateX(5px);
+  transform: translateX(2px);
 }
 
 .hero .hero-img {
@@ -507,7 +511,7 @@ section {
 @media (max-width: 991px) {
   .hero {
     height: auto;
-    padding: 165px 0 70px 0;
+    padding: 180px 0 70px 0;
   }
 
   .hero .hero-img {
@@ -516,13 +520,14 @@ section {
   }
 
   .hero .hero-img img {
-    width: 80%;
+    width: 75%;
   }
 }
 
 @media (max-width: 768px) {
   .hero {
     text-align: center;
+    margin-top: 80px;
   }
 
   .hero h1 {
