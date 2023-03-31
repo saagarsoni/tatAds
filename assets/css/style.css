@@ -71,8 +71,8 @@ section {
 
 @media (max-width: 768px) {
   .section-header p {
-    font-size: 28px;
-    line-height: 32px;
+    font-size: 25px;
+    line-height: 27px;
   }
 }
 
@@ -507,7 +507,7 @@ section {
 @media (max-width: 991px) {
   .hero {
     height: auto;
-    padding: 120px 0 60px 0;
+    padding: 165px 0 70px 0;
   }
 
   .hero .hero-img {
@@ -526,7 +526,7 @@ section {
   }
 
   .hero h1 {
-    font-size: 32px;
+    font-size: 27px;
   }
 
   .hero h2 {
